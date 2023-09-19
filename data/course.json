@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "1b0bb126-f523-6460-d35c-884a2d37f004",
+  "instructors": {
+    "content": [
+      "dfa4fdfe-8bb2-c69f-7913-19c1e86bf008"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "98e0e894-ecc2-08b0-782f-e73ae572c16d",
+    "website": "21l-715-media-in-cultural-context-spring-2007"
+  },
+  "course_title": "Media in Cultural Context",
+  "course_description": "This course explores the international trade in television text, considering the ways in which 'foreign' programs find places within 'domestic' schedules. Looking at the life television texts maintain outside of their home market, this course examines questions of globalization and national cultures of production and reception. Students will be introduced to a range of positions about the nature of international textual trade, including economic arguments about the structuring of international markets and ethnographic studies about the role imported content plays in the formation of hybrid national identities. Students will be encouraged to consider the role American content is made to play in non-American markets.\n",
+  "department_numbers": [
+    "21L",
+    "CMS-W"
+  ],
+  "extra_course_numbers": "CMS.871",
+  "primary_course_number": "21L.715",
+  "course_image_thumbnail": {
+    "content": "26eabf8c-3512-23ad-903d-b41a885a05b3",
+    "website": "21l-715-media-in-cultural-context-spring-2007"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "03a5f24f-6ce0-45b2-9ca4-e1240161e8ad",
+  "site_short_id": "21l.715-spring-2007",
+  "title": "Course Metadata"
+}
